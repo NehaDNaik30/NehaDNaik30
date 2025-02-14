@@ -1,20 +1,35 @@
 ## Hi there 👋
 I am Neha D
 
+
 Dynamic and detail-oriented Computer Science graduate (2024) with a robust academic foundation (CGPA: 8.47) and practical experience in Java full-stack web development. Proficient in programming, passion for solving technical challenges and delivering innovative solutions. I aspire to contribute my skills and abilities to the growth of the organization and build my professional career as an Engineer.
 
+
 SKILLS
-Core Competencies
+
+
 •	JSE (OOPS, Multi-Threading, Exception Handling, Collection Frameworks)
+
 •	Relational Database Management (MySQL, Oracle)
+
 •	Data Structures and Algorithms.
 
-Languages & Frameworks 
+
+
+Languages & Frameworks
+
+
 Frontend: JavaScript, HTML, CSS
+
 Backend: Java (J2EE, Spring, Servlet, JDBC), Python
 
+
+
 Tools & Platforms 
+
+
 Databases: MySQL, Oracle
+
 Operating Systems: Windows, Linux
 
 
